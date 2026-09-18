@@ -1,0 +1,22 @@
+{
+  "name": "Store Aksesoris Shopee",
+  "short_name": "AksesorisStore",
+  "description": "Platform Toko Online Aksesoris HP Lengkap dengan Promo Buy 1 Get 1 & Live Stream",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "uploads/case_hp.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "uploads/case_hp.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
